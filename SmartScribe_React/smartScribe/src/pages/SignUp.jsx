@@ -48,7 +48,9 @@ export default function SignUp({ theme }) {
 
         <div className="divider">or continue with</div>
         <div className="socials">
-          <img src={Google} alt="Google" />
+          <Link to='https://www.google.com/'>
+            <img src={Google} alt="Google" />
+          </Link> 
           <img src={Apple} alt="Apple" />
           <img src={Facebook} alt="Facebook" />
         </div>

@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "react-router-dom": "^7.6.3",
-    "use-local-storage": "^3.0.0"
-  }
-}
